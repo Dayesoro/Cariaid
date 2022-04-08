@@ -2,6 +2,7 @@ package com.example.cariaid.ui.dashboard
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.cariaid.R
 
 class DashBoardActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

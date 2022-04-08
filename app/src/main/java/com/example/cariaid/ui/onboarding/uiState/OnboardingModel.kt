@@ -1,4 +1,6 @@
-package com.example.cariaid.ui.onboarding.UiState
+package com.example.cariaid.ui.onboarding.uiState
 
-class OnboardingModel {
-}
+data class OnboardingModel(
+    val image:Int,
+    val description:String
+)
